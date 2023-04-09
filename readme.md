@@ -1,7 +1,7 @@
 # Tailwind Manage Landing Page
 
-This is the project from my 2022 Tailwind Crash Course on YouTube.
 
+Check the live demo here 👉️ https://msaad2023.github.io/manage-landing-page-with-tailwindcss5/
 ![Alt text](/img/screen.png?raw=true)
 
 # Usage
